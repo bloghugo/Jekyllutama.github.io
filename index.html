@@ -1,10 +1,7 @@
 ---
+title: "Daftar Artikel"
 layout: default
-title: "Postingan Terbaru"
 ---
-
-{% if site.show_excerpts %}
-  {% for post in site.posts %}
 
 <article>
   <header><h1>{{ include.title | default: page.title }}</h1></header>
@@ -14,9 +11,3 @@ title: "Postingan Terbaru"
     {% endfor %}
   </ul>
 </article>
-
-  {% endfor %}
-{% else %}
-  {% capture source %}{% include_relative archive.html title="Posts" %}{% endcapture %}
-  {{ source | split: "---" | last }}
-{% endif %}
