@@ -2,6 +2,11 @@
 title: "Daftar Artikel"
 layout: default
 ---
+<form action="https://www.google.com/search" method="get" target="_blank">
+  <input type="text" name="q" placeholder="Cari Cepat">
+  <input type="hidden" name="sitesearch" value="belajarcorel.web.id">
+  <button type="submit">Cari</button>
+</form>
 
 <article>
   <header><h1>{{ include.title | default: page.title }}</h1></header>
