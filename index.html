@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Home"
+title: "Postingan Terbaru"
 ---
 
 {% if site.show_excerpts %}
@@ -14,12 +14,6 @@ title: "Home"
     {% endfor %}
   </ul>
 </article>
-
-    <article>
-      {% include meta.html post=post %}
-      {{ post.excerpt }}
-      <div class="more"><a href="{{ post.url | relative_url }}">read more</a></div>
-    </article>
 
   {% endfor %}
 {% else %}
