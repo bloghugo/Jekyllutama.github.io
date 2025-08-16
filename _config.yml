@@ -31,5 +31,6 @@ comments:
 #  isso_domain: ""              # see https://isso-comments.de
 
 plugins:
- - jekyll-feed
- - jekyll-sitemap
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
