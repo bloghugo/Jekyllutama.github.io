@@ -1,4 +1,7 @@
 ---
+title:  "Download Desain Banner Karnaval Kemerdekaan CDR"
+layout: post
+---
 Merayakan Hari Ulang Tahun (HUT) Kemerdekaan Republik Indonesia selalu identik dengan berbagai kegiatan meriah, mulai dari lomba rakyat, pawai, hingga karnaval yang penuh warna. Salah satu elemen penting yang tidak pernah terlewat adalah penggunaan banner atau spanduk bertema kemerdekaan sebagai media dekorasi maupun informasi acara.  
 
 Bagi Anda yang sedang mencari inspirasi maupun file siap pakai, artikel ini menyediakan **desain banner karnaval HUT RI dalam format CorelDRAW (CDR)** yang dapat langsung diunduh dan diedit sesuai kebutuhan. Dengan desain yang rapi, modern, dan tetap mengusung nuansa nasionalisme, file ini sangat cocok untuk digunakan oleh panitia lomba, sekolah, instansi, maupun komunitas yang ingin menyemarakkan perayaan 17 Agustus.  
