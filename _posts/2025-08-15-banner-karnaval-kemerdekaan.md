@@ -56,4 +56,4 @@ Banner karnaval HUT RI bukan hanya sekadar media visual, tetapi juga simbol keba
 
 File **CorelDRAW (CDR)** yang kami sediakan dapat diedit sesuai kebutuhan, baik untuk sekolah, instansi pemerintah, komunitas, maupun panitia karnaval di berbagai daerah. Dengan begitu, setiap pihak bisa menghadirkan dekorasi yang rapi, profesional, sekaligus sarat makna kebangsaan.  
 
-Segera unduh desain ini, kreasikan sesuai tema acara Anda, dan mari bersama-sama kita rayakan kemerdekaan Indonesia dengan penuh semangat!  
+Segera unduh desain ini, kreasikan sesuai tema acara Anda, dan mari bersama-sama kita rayakan kemerdekaan Indonesia dengan penuh semangat!  Ok
