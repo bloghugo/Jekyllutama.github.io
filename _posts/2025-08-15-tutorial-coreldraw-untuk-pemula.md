@@ -5,7 +5,6 @@ description: "Panduan lengkap belajar CorelDRAW untuk pemula. Mulai dari mengena
 date: 2025-08-15
 categories: [desain, coreldraw]
 tags: [CorelDRAW, desain grafis, tutorial, pemula, vektor]
-permalink: /tutorial-coreldraw-pemula/
 image: "/assets/images/belajarcorel.webp"
 ---
 
