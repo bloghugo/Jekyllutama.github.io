@@ -2,7 +2,7 @@
 layout: post
 title: "Tutorial CorelDRAW untuk Pemula – Panduan Lengkap dari Nol"
 description: "Panduan lengkap belajar CorelDRAW untuk pemula. Mulai dari mengenal antarmuka, tool dasar, hingga teknik desain kreatif yang sering digunakan desainer profesional."
-date: 2025-08-16
+date: 2025-08-15
 categories: [desain, coreldraw]
 tags: [CorelDRAW, desain grafis, tutorial, pemula, vektor]
 permalink: /tutorial-coreldraw-pemula/
