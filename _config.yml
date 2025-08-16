@@ -1,8 +1,8 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "My blog"
+title: "Belajar Corel"
+author: "Farhan Cahyadi"
+description: "Tutorial dan File Corel CDR"
 permalink: /:title/
-lang: "en"
+lang: "id"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
