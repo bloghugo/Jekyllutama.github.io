@@ -8,7 +8,7 @@ tags: [CorelDRAW, desain grafis, tutorial, pemula, vektor]
 image: "/assets/images/belajarcorel.webp"
 ---
 
-![Belajar CorelDRAW untuk Pemula](/assets/images/belajarcorel.webp){: style="display:block; margin:auto; max-width:600px;" }
+![Belajar CorelDRAW untuk Pemula](/assets/images/belajarcorel.webp)
 
 ## Pengantar
 
