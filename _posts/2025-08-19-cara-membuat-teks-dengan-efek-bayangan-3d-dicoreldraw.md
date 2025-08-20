@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cara Membuat Teks dengan Efek Bayangan 3D di CorelDRAW"
-date: 2025-08-16 10:00:00 +0700
+date: 2025-08-19 10:00:00 +0700
 categories: [CorelDRAW, Tutorial, Desain]
 tags: [coreldraw, teks 3D, extrude, drop shadow, desain grafis]
 ---
