@@ -2,7 +2,7 @@
 layout: post
 title: "Mengenal Pick Tool di CorelDRAW: Panduan Lengkap untuk Pemula"
 description: "Panduan lengkap mengenai Pick Tool di CorelDRAW, fungsi-fungsinya, variasi tool, dan tips praktis untuk pemula agar lebih cepat menguasai desain grafis."
-date: 2025-08-20 11:00:00 +0700
+date: 2025-08-20 01:00:00 +0700
 categories: [coreldraw, tutorial, desain]
 tags: [Pick Tool, CorelDRAW, tutorial, desain grafis, pemula]
 author: "Farhan Cahyadi"
