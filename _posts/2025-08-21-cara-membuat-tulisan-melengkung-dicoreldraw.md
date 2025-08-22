@@ -2,7 +2,7 @@
 layout: post
 title: "Cara Membuat Tulisan Melengkung di CorelDRAW"
 description: "Panduan lengkap membuat tulisan melengkung dan melingkar di CorelDRAW dengan fitur Fit Text to Path. Cocok untuk pemula yang ingin mempercantik desain logo, undangan, brosur, atau label produk."
-date: 2025-08-22 10:00:00 +0700
+date: 2025-08-21 01:00:00 +0700
 categories: [coreldraw, tipografi, tutorial]
 tags: [tulisan melengkung, tulisan melingkar, coreldraw, tipografi, fit text to path]
 author: "Farhan Cahyadi"
