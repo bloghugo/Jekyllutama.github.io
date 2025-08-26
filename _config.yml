@@ -21,11 +21,6 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "archive.html", title: "Home", sidebaricon: home}
   - {file: "tentang-blog.md", title: "Tentang Blog", sidebaricon: address-card}
 
-external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
-
 comments:
    disqus_shortname: "belajarcorelweb"         # see https://disqus.com
 #  isso_domain: ""              # see https://isso-comments.de
