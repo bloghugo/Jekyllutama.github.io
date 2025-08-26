@@ -2,7 +2,7 @@
 layout: post
 title: "Cara Membuat Sudut Melengkung pada Objek di CorelDRAW"
 description: "Panduan lengkap membuat sudut melengkung pada kotak, segitiga, dan bentuk polygon di CorelDRAW menggunakan Shape Tool dan Fillet/Scallop/Chamfer Tool."
-date: 2025-08-22 09:00:00 +0700
+date: 2025-08-24 09:00:00 +0700
 author: "Farhan Cahyadi"
 categories: [Tutorial, CorelDRAW]
 tags: [CorelDRAW, Desain Grafis, Shape Tool, Fillet, Polygon]
