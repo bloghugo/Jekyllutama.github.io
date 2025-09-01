@@ -7,6 +7,35 @@ layout: default
   
   <div class="post-content">
     {{ content }}
+
+      <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "{{ page.url | absolute_url }}"
+    },
+    "headline": "{{ page.title | escape }}",
+    "description": "{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | escape }}{% else %}{{ page.title | escape }}{% endif %}",
+    "image": "{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ site.logo | absolute_url }}{% endif %}",
+    "author": {
+      "@type": "Person",
+      "name": "{{ site.author.name }}"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "{{ site.title }}",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "{{ site.logo | absolute_url }}"
+      }
+    },
+    "datePublished": "{{ page.date | date_to_xmlschema }}",
+    "dateModified": "{% if page.last_modified_at %}{{ page.last_modified_at | date_to_xmlschema }}{% else %}{{ page.date | date_to_xmlschema }}{% endif %}"
+  }
+  </script>
+
   </div>
   
   {% if site.comments.isso_domain or site.comments.disqus_shortname %}
