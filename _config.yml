@@ -19,7 +19,6 @@ show_minimal: false             # remove all clutter
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "archive.html", title: "Home", sidebaricon: home.svg}
-    - {file: "archive.html", title: "", sidebaricon: home.svg}
   - {file: "tentang-blog.md", title: "Tentang Blog", sidebaricon: address-card}
 
 comments:
